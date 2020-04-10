@@ -1,0 +1,11 @@
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\bin\Debug\netcoreapp2.1\DS_LAB_5.deps.json
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\bin\Debug\netcoreapp2.1\DS_LAB_5.runtimeconfig.json
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\bin\Debug\netcoreapp2.1\DS_LAB_5.runtimeconfig.dev.json
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\bin\Debug\netcoreapp2.1\DS_LAB_5.dll
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\bin\Debug\netcoreapp2.1\DS_LAB_5.pdb
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\obj\Debug\netcoreapp2.1\DS_LAB_5.csprojAssemblyReference.cache
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\obj\Debug\netcoreapp2.1\DS_LAB_5.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\obj\Debug\netcoreapp2.1\DS_LAB_5.AssemblyInfoInputs.cache
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\obj\Debug\netcoreapp2.1\DS_LAB_5.AssemblyInfo.cs
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\obj\Debug\netcoreapp2.1\DS_LAB_5.dll
+C:\Users\Богдан\source\repos\DS_LAB_5\DS_LAB_5\obj\Debug\netcoreapp2.1\DS_LAB_5.pdb
